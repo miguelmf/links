@@ -1,0 +1,169 @@
+/*Gruvbox color theme*/
+:root {
+	--bg_h: #1d2021;
+	--bg: #060808;
+	--bg_s: #32302f;
+	--bg1: #3c3836;
+	--bg2: #504945;
+	--bg3: #665c54;
+	--bg4: #7c6f64;
+
+	--fg: #fbf1c7;
+	--fg1: #ebdbb2;
+	--fg2: #d5c4a1;
+	--fg3: #bdae93;
+	--fg4: #a89984;
+
+	--red: #fb4934;
+	--green: #b8bb26;
+	--yellow: #fabd2f;
+	--blue: #83a598;
+	--purple: #d3869b;
+	--aqua: #8ec07c;
+	--gray: #928374;
+	--orange: #fe8019;
+
+	--red-dim: #cc2412;
+	--green-dim: #98971a;
+	--yellow-dim: #d79921;
+	--blue-dim: #458588;
+	--purple-dim: #b16286;
+	--aqua-dim: #689d6a;
+	--gray-dim: #a89984;
+	--orange-dim: #d65d0e;
+}
+
+body {
+	background-color: var(--bg);
+	color: var(--fg);
+}
+
+.main {
+	background-color: var(--bg);
+	color: var(--fg1);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	min-height: 100vh;
+	justify-content: space-between;
+}
+
+.titles {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	max-width: 750px;
+}
+
+footer {
+	text-align: center;
+	margin-top: 10px;
+}
+
+
+#randomLink {
+	padding: 10px 20px;
+	font-size: 1.25em;
+}
+
+
+button {
+	background-color: var(--bg);
+	color: var(--fg1);
+	border: 1px solid var(--orange);
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: var(--orange);
+	color: var(--bg);
+}
+
+.allLinks {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	min-height: 100vh;
+}
+
+.allLinks .links {
+	padding: 1em;
+	margin: 0.5em;
+}
+
+
+.allLinks .links ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 1em;
+	/* flex-grow: 5; */
+	/* flex-shrink: 5; */
+	flex-basis: 100%;
+	padding: 0;
+	/* There is an annoying padding for uls that messes things up in this specific case*/
+}
+
+
+.tags {
+	color: var(--orange);
+}
+
+.allLinks .links ul .link {
+	list-style: none;
+	margin-top: 0.5em;
+	padding: 0.25em;
+	border: 1px solid var(--orange);
+	border-radius: 5px;
+	max-width: 750px;
+
+	text-align: center;
+	flex-grow: 5;
+	flex-basis: 25%;
+
+	/* flex-shrink: 1; */
+	@media (max-width: 500px) {
+		max-width: 100%;
+		flex-basis: 100%;
+	}
+}
+
+.allLinks .links ul .link a {
+	color: var(--fg);
+	font-weight: bold;
+	font-size: 1.1em;
+	display: inline-block;
+	margin-top: 0.25em;
+}
+
+.allLinks .tagList {
+	display: flex;
+	gap: 0.5em;
+	flex-wrap: wrap;
+	flex-direction: row;
+	max-width: 50%;
+
+	@media (max-width: 500px) {
+		max-width: 100%;
+	}
+}
+
+.allLinks .tagList .selected {
+	background-color: var(--orange);
+	color: var(--bg);
+}
+
+button.tag {
+	background-color: var(--bg);
+	color: var(--fg1);
+	border: 1px solid var(orange);
+	border-radius: 5px;
+	cursor: pointer;
+	padding: 0.5em;
+	font-size: 1em;
+}

@@ -1,0 +1,250 @@
+{
+  "links": [
+    {
+      "name": "miguelmf.com",
+      "url": "https://miguelmf.com",
+      "tags": ["indieWeb"],
+      "description": "My personal website."
+    },
+    {
+      "name": "tylerjdisney.com",
+      "url": "https://tylerjdisney.com",
+      "tags": ["indieWeb"],
+      "description": "Personal website of Tyler Disney."
+    },
+    {
+      "name": "Terence Tao's blog",
+      "url": "https://terrytao.wordpress.com/",
+      "tags": ["indieWeb", "math"],
+      "description": "Personal blog of Terence Tao."
+    },
+    {
+      "name": "An unsolicited guide to good research",
+      "url": "https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf",
+      "tags": ["research"],
+      "description": "A pdf on how to conduct good research."
+    },
+    {
+      "name": "Hundred Rabits",
+      "url": "https://100r.co/site/home.html",
+      "tags": ["indieWeb", "solarpunk"],
+      "description": "Personal website that documents low-tech solutions with the hope of building a more resilient future. They live on a sailboat."
+    },
+    {
+      "name": "https://mycelial.technology",
+      "url": "https://mycelial.technology",
+      "tags": ["indieWeb", "solarpunk"],
+      "description": "Personal website of glyph: a mycelial technologist coding and cultivating a decentralized, multispecies future."
+    },
+    {
+      "name": "https://cblgh.org",
+      "url": "https://cblgh.org",
+      "tags": ["indieWeb"],
+      "description": "Alex is a researcher and engineer working on discovering new ideas—or new takes on old ideas—and putting them into practice."
+    },
+    {
+      "name": "A primer on Bezier curves.",
+      "url": "https://pomax.github.io/bezierinfo/index.html",
+      "tags": ["math", "dev"],
+      "description": "A primer on Bezier curves."
+    },
+    {
+      "name": "Zachary Labe's blog",
+      "url": "https://zacklabe.com/",
+      "tags": ["indieWeb", "climate"],
+      "description": "Personal blog of Zachary Labe, a climate scientist. An amazing resource for the latest climate data."
+    },
+    {
+      "name": "The Egg shortstory",
+      "url": "https://www.galactanet.com/oneoff/theegg_mod.html",
+      "tags": ["shortStory"],
+      "description": "The Egg shortstory by Andy Weir."
+    },
+    {
+      "name": "NoCSDegree",
+      "url": "https://www.nocsdegree.com/",
+      "tags": ["dev", "motivation"],
+      "description": " Read 200+ interviews with self-taught and bootcamp-trained developers."
+    },
+    {
+      "name": "Gwern's blog",
+      "url": "https://www.gwern.net/",
+      "tags": ["indieWeb"],
+      "description": "This is the website of Gwern Branwen. He writes about AI, psychology, & statistics. Best known for his writings about AI scaling, poetry & anime neural networks; darknet markets and Bitcoin; blinded self-experiments; and dual n-back & spaced repetition."
+    },
+    {
+      "name": "usesthis.com",
+      "url": "https://usesthis.com/",
+      "tags": ["dev"],
+      "description": "Uses This is a collection of nerdy interviews asking people from all walks of life what they use to get the job done."
+    },
+    {
+      "name": "NutritionFacts.org",
+      "url": "https://nutritionfacts.org/",
+      "tags": ["nutrition", "health"],
+      "description": "This is a science-based nonprofit organization founded by Michael Greger, M.D. FACLM, that provides free updates on the latest in nutrition research."
+    },
+    {
+      "name": "examine.com",
+      "url": "https://examine.com/",
+      "tags": ["health"],
+      "description": "Science based nutrition and supplement information."
+    },
+    {
+      "name": "foundmyfitness.com",
+      "url": "https://www.foundmyfitness.com/topics",
+      "tags": ["health", "fitness"],
+      "description": "Deep dives into the science of fitness and nutrition, by Rhonda Patrick"
+    },
+    {
+      "name": "The paradox of tolerance",
+      "url": "https://en.wikipedia.org/wiki/Paradox_of_tolerance",
+      "tags": ["article"],
+      "description": "Article on the paradox of tolerance."
+    },
+    {
+      "name": "The Black Flag Catalyst Revolt Guide",
+      "url": "https://theanarchistlibrary.org/library/bfc-revolt-guide",
+      "tags": ["anarchism"],
+      "description": "The following resource is intended to be a guide for those who wish to carry out concerted political action and includes tactics for both militant and pacifistic direct action, organizing, creating assemblies, and even some introductory aspects of being a street medic."
+    },
+    {
+      "name": "40 Ways to Fight Fascists",
+      "url": "https://spencersunshine.com/2020/08/27/fortyways/",
+      "tags": ["anarchism"],
+      "description": "“40 Ways to Fight Fascists: Street-Legal Tactics for Community Activists”"
+    },
+    {
+      "name": "An Anarchist FAQ",
+      "url": "https://anarchistfaq.org/afaq/index.html",
+      "tags": ["anarchism"],
+      "description": "This is an anarchist FAQ. Its aim is to present what anarchism really stands for and indicate why you should become an anarchist."
+    },
+    {
+      "name": "Solarpunk resources",
+      "url": "https://iandennismiller.github.io/solarpunk/",
+      "tags": ["solarpunk"],
+      "description": " Here you'll find resources and literature exploring emergent Solarpunk thought."
+    },
+    {
+      "name": "Transition Tactics towards solarpunk.",
+      "url": "https://transitiontactics.com/",
+      "tags": ["solarpunk"],
+      "description": "Tangible steps for transitioning to a solarpunk civilisation."
+    },
+    {
+      "name": "ripgrep",
+      "url": "https://github.com/burntsushi/ripgrep",
+      "tags": ["dev", "software"],
+      "description": "ripgrep recursively searches directories for a regex pattern."
+    },
+    {
+      "name": "Grug Brain Developer",
+      "url": "https://grugbrain.dev/",
+      "tags": ["dev"],
+      "description": "A layman's guide to thinking like the self-aware smol brained"
+    },
+    {
+      "name": "nikiv.dev",
+      "url": "https://nikiv.dev",
+      "tags": ["dev", "life"],
+      "description": "Personal wiki of Nikita."
+    },
+    {
+      "name": "Ig Nobel Prizes",
+      "url": "https://improbable.com/ig/winners/",
+      "tags": ["science"],
+      "description": "Research that makes people laugh...then think."
+    },
+    {
+      "name": "Awesome Privacy - software",
+      "url": "https://github.com/pluja/awesome-privacy",
+      "tags": ["dev", "software"],
+      "description": "List of free, open source and privacy respecting services and alternatives to privative services."
+    },
+    {
+      "name": "World's air pollution",
+      "url": "https://waqi.info",
+      "tags": ["climate"],
+      "description": "World's Air Pollution: Real-time Air Quality Index"
+    },
+    {
+      "name": "How to read a scientific study",
+      "url": "https://examine.com/guides/how-to-read-a-study/#type-of-study",
+      "tags": ["article", "science"],
+      "description": "How to read a scientific study, by examine.com."
+    },
+    {
+      "name": "How to be perfectly unhappy - comic.",
+      "url": "https://theoatmeal.com/comics/unhappy",
+      "tags": ["comics"],
+      "description": "How to be perfectly unhappy - comic by TheOatmeal."
+    },
+    {
+      "name": "Pointillism comic by Koong: Looks.",
+      "url": "https://www.webtoons.com/en/canvas/pointillism/looks/viewer?title_no=835155&episode_no=82",
+      "tags": ["comics"],
+      "description": "A very short and very meaningful comic, on looks."
+    },
+    {
+      "name": "stickertop.art",
+      "url": "https://stickertop.art/",
+      "tags": ["pics", "dev"],
+      "description": "Discover a unique collection of laptops adorned with creative stickers from around the world."
+    },
+    {
+      "name": "Bearblog discovery feed",
+      "url": "https://bearblog.dev/discover/",
+      "tags": ["indieWeb"],
+      "description": "Discovery feed of the bear blog indieverse."
+    },
+    {
+      "name": "A parenthetical departure. A personal website.",
+      "url": "https://departure.blog/",
+      "tags": ["indieWeb"],
+      "description": "A (cool) personal website by.. someone. You can get lost here!"
+    },
+    {
+      "name": "XKCD",
+      "url": "https://xkcd.com/",
+      "tags": ["comics"],
+      "description": "A webcomic of romance, sarcasm, math, and language."
+    },
+    {
+      "name": "Pi Hole",
+      "url": "https://pi-hole.net/",
+      "tags": ["dev", "software"],
+      "description": "The Pi-hole is a network wide ad blocking system."
+    },
+    {
+      "name": "Soatok blog.",
+      "url": "https://soatok.blog/",
+      "tags": ["dev", "software"],
+      "description": "Writings about information security, cryptography, software, and humanity, from a member of the furry fandom."
+    },
+    {
+      "name": "Project NOMAD",
+      "url": "https://www.projectnomad.us",
+      "tags": ["dev", "software", "offgrid"],
+      "description": " Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. "
+    },
+    {
+      "name": "Robert Sapolsky's videos",
+      "url": "https://www.youtube.com/@Robert.Sapolsky/videos",
+      "tags": ["youtube", "biology", "lectures"],
+      "description": "Lecture-like videos by the great Robert Sapolsky."
+    },
+    {
+      "name": "kevinkle.in",
+      "url": "https://kevinkle.in/",
+      "tags": ["indieWeb"],
+      "description": "Personal page of Kevin, a computer scientist."
+    },
+    {
+      "name": "practicalbetterments.com",
+      "url": "https://practicalbetterments.com/",
+      "tags": ["tips"],
+      "description": "A collection of one-off actions that improve your life, continuously."
+    }
+  ]
+}
