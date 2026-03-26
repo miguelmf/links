@@ -245,6 +245,120 @@
       "url": "https://practicalbetterments.com/",
       "tags": ["tips"],
       "description": "A collection of one-off actions that improve your life, continuously."
+    },
+    {
+      "name": "The evolution of cooperation, Axelrod's tournament",
+      "url": "https://en.wikipedia.org/wiki/The_Evolution_of_Cooperation#Axelrod's_tournaments",
+      "tags": ["article", "life"],
+      "description": "description"
+    },
+    {
+      "name": "The evolution of trust - a game",
+      "url": "https://ncase.me/trust/",
+      "tags": ["life", "game", "article"],
+      "description": "This is a game version of Axelrod's tournament, the evolution of cooperation."
+    },
+    {
+      "name": "100 tips for a better life",
+      "url": "https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life",
+      "tags": ["life", "tips"],
+      "description": "A page with a list of 100 tips for a better life."
+    },
+    {
+      "name": "Astronomy Picture of the Day",
+      "url": "https://apod.nasa.gov",
+      "tags": ["pics", "science"],
+      "description": "Each day a different image or photograph of the universe, along with an explanation."
+    },
+    {
+      "name": "The illustrated guide to a PhD.",
+      "url": "https://matt.might.net/articles/phd-school-in-pictures/",
+      "tags": ["comics", "science"],
+      "description": "A comic showing what a PhD is."
+    },
+    {
+      "name": "Gilles Castel's blog",
+      "url": "https://castel.dev/",
+      "tags": ["indieWeb", "dev"],
+      "description": "Mathematics PhD student at KU Leuven. Interested in mathematics, software development, Vim, Unix, design. Sadly, he is no longer with us. RIP brother."
+    },
+    {
+      "name": "MacroDroid",
+      "url": "https://www.macrodroid.com/",
+      "tags": ["android"],
+      "description": "An android app to automate your device."
+    },
+    {
+      "name": "BuzzKill",
+      "url": "https://play.google.com/store/apps/details?id=com.samruston.buzzkill&hl=en",
+      "tags": ["android"],
+      "description": "An android app to deal with notifications. Silence them, cool-down, batch them, etc."
+    },
+    {
+      "name": "StreetComplete",
+      "url": "https://streetcomplete.app/",
+      "tags": ["android"],
+      "description": "An android app to help improve OpenStreetMap. It finds missing map data in your vicinity and displays it on a map as quests."
+    },
+    {
+      "name": "EveryDoor",
+      "url": "https://every-door.app/",
+      "tags": ["android"],
+      "description": "An android app to help improve OpenStreetMap by allowing to add missing info."
+    },
+    {
+      "name": "KISS Launcher",
+      "url": "https://kisslauncher.com/",
+      "tags": ["android"],
+      "description": "An android launcher. The best launcher, IMO."
+    },
+    {
+      "name": "Bat (a cat clone)",
+      "url": "https://github.com/sharkdp/bat",
+      "tags": ["dev", "software"],
+      "description": "A cat clone with wings. This is a must have."
+    },
+    {
+      "name": "fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "tags": ["dev", "software"],
+      "description": "A command-line fuzzy finder. A must have."
+    },
+    {
+      "name": "bottom (btm)",
+      "url": "https://github.com/clementtsang/bottom",
+      "tags": ["dev", "software"],
+      "description": "A cross-platform graphical process/system monitor. An alternative to (h)top."
+    },
+    {
+      "name": "dust",
+      "url": "https://github.com/bootandy/dust",
+      "tags": ["dev", "software"],
+      "description": "An alternative to du in rust. See where your disk space is going."
+    },
+    {
+      "name": "fd",
+      "url": "https://github.com/sharkdp/fd",
+      "tags": ["dev", "software"],
+      "description": "A simple, fast and user-friendly alternative to 'find'."
+    },
+    {
+      "name": "KeePassXC",
+      "url": "https://keepassxc.org/",
+      "tags": ["dev", "software"],
+      "description": "The best password manager."
+    },
+    {
+      "name": "Hobbyist Finds Math’s Elusive ‘Einstein’ Tile",
+      "url": "https://www.quantamagazine.org/hobbyist-finds-maths-elusive-einstein-tile-20230404/",
+      "tags": ["math"],
+      "description": "Someone beat Penrose and found a single tile that aperiodically tiles the plane."
+    },
+    {
+      "name": "QuantaMagazine",
+      "url": "https://www.quantamagazine.org/",
+      "tags": ["science", "news"],
+      "description": "This is the best news/magazine site for science that I have come across."
     }
   ]
 }
