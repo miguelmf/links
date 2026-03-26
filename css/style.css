@@ -36,6 +36,9 @@
 body {
 	background-color: var(--bg);
 	color: var(--fg);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
 
 .main {
@@ -141,19 +144,21 @@ button:hover {
 	margin-top: 0.25em;
 }
 
-.allLinks .tagList {
+.tagList {
 	display: flex;
 	gap: 0.5em;
 	flex-wrap: wrap;
 	flex-direction: row;
 	max-width: 50%;
 
+
 	@media (max-width: 500px) {
 		max-width: 100%;
 	}
 }
 
-.allLinks .tagList .selected {
+/* .allLinks .tagList .selected { */
+.tagList .selected {
 	background-color: var(--orange);
 	color: var(--bg);
 }
