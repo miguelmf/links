@@ -1,12 +1,13 @@
 async function loadLinks() {
 	const response = await fetch("links.json");
 	const data = await response.json();
-	renderLinks(data.links);
-	tagFilter(data);
+	const links = shuffle(data.links);
+	renderLinks(links);
+	tagFilter(links);
 }
 
-function tagFilter(data) {
-	const tags = new Set(data.links.flatMap((link) => link.tags));
+function tagFilter(links) {
+	const tags = new Set(links.flatMap((link) => link.tags).sort());
 	const selectedTags = [];
 	tags.forEach((tag) => {
 		const button = document.createElement("button");
@@ -21,13 +22,13 @@ function tagFilter(data) {
 			}
 
 			button.classList.toggle("selected");
-			const links = data.links.filter((link) =>
+			const filteredLinks = links.filter((link) =>
 				link.tags.some((tag) => selectedTags.includes(tag)),
 			);
 			if (selectedTags.length === 0) {
-				renderLinks(data.links);
-			} else {
 				renderLinks(links);
+			} else {
+				renderLinks(filteredLinks);
 			}
 		});
 	});
@@ -47,3 +48,11 @@ function renderLinks(links) {
 }
 
 loadLinks();
+
+function shuffle(array) {
+	for (let i = array.length - 1; i > 0; i--) {
+		const j = Math.floor(Math.random() * (i + 1));
+		[array[i], array[j]] = [array[j], array[i]];
+	}
+	return array;
+}
