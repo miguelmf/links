@@ -41,6 +41,11 @@ body {
 	align-items: center;
 }
 
+html,
+body {
+	height: 100%;
+}
+
 .main {
 	background-color: var(--bg);
 	color: var(--fg1);
@@ -61,7 +66,7 @@ body {
 
 footer {
 	text-align: center;
-	margin-top: 10px;
+	margin-top: auto;
 }
 
 
@@ -89,7 +94,6 @@ button:hover {
 	flex-direction: column;
 	justify-content: space-between;
 	align-items: center;
-	min-height: 100vh;
 }
 
 .allLinks .links {
@@ -166,7 +170,7 @@ button:hover {
 button.tag {
 	background-color: var(--bg);
 	color: var(--fg1);
-	border: 1px solid var(orange);
+	border: 1px solid var(--orange);
 	border-radius: 5px;
 	cursor: pointer;
 	padding: 0.5em;
