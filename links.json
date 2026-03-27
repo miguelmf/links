@@ -93,7 +93,7 @@
     {
       "name": "foundmyfitness.com",
       "url": "https://www.foundmyfitness.com/topics",
-      "tags": ["health", "fitness"],
+      "tags": ["health", "fitness", "nutrition"],
       "description": "Deep dives into the science of fitness and nutrition, by Rhonda Patrick"
     },
     {
@@ -351,7 +351,7 @@
     {
       "name": "Hobbyist Finds Math’s Elusive ‘Einstein’ Tile",
       "url": "https://www.quantamagazine.org/hobbyist-finds-maths-elusive-einstein-tile-20230404/",
-      "tags": ["math"],
+      "tags": ["math", "article"],
       "description": "Someone beat Penrose and found a single tile that aperiodically tiles the plane."
     },
     {
@@ -359,6 +359,90 @@
       "url": "https://www.quantamagazine.org/",
       "tags": ["science", "news"],
       "description": "This is the best news/magazine site for science that I have come across."
+    },
+    {
+      "name": "The busy worker's handbook to the apocalpyse",
+      "url": "https://medium.com/@samyoureyes/the-busy-workers-handbook-to-the-apocalypse-7790666afde7",
+      "tags": ["climate"],
+      "description": "A doomer's handbook to the climate driven apocalypse."
+    },
+    {
+      "name": "Jacob Coffin's blog",
+      "url": "https://jacobcoffinwrites.wordpress.com/",
+      "tags": ["solarpunk"],
+      "description": "A solarpunk blog by Jacob Coffin."
+    },
+    {
+      "name": "Original Position - veil of ignorance",
+      "url": "https://en.wikipedia.org/wiki/Original_position",
+      "tags": ["article"],
+      "description": "If one did not know which position one would occupy in society, how should one structure it?"
+    },
+    {
+      "name": "ncase.me",
+      "url": "https://ncase.me/",
+      "tags": ["indieWeb", "games"],
+      "description": "Awesome website with didactic \"games\"."
+    },
+    {
+      "name": "Better explained",
+      "url": "https://betterexplained.com/cheatsheet/",
+      "tags": ["education", "math"],
+      "description": "A cheatsheet explaining mainly math/CS concepts."
+    },
+    {
+      "name": "HydroponicTrash",
+      "url": "https://hydroponictrash.solar/",
+      "tags": ["solarpunk", "indieWeb"],
+      "description": "description"
+    },
+    {
+      "name": "Tiny digital banned book library",
+      "url": "https://freebannedbooks.org/",
+      "tags": ["anarchism", "books"],
+      "description": "Digital library hosting books that are banned or challenged by Republicans - Conservatives - Fascists - and Christian Nationalists who are actively trying to ban information."
+    },
+    {
+      "name": "dynomight.net",
+      "url": "https://dynomight.net/",
+      "tags": ["indieWeb"],
+      "description": "A general blog about life and things."
+    },
+    {
+      "name": "Addy.io",
+      "url": "https://addy.io/",
+      "tags": ["dev", "software"],
+      "description": "Protect your real email address using email aliases."
+    },
+    {
+      "name": "eza",
+      "url": "https://github.com/eza-community/eza",
+      "tags": ["dev", "software"],
+      "description": "A modern alternative to ls"
+    },
+    {
+      "name": "SyncThing",
+      "url": "https://syncthing.net/",
+      "tags": ["dev", "software"],
+      "description": "A continuous file synchronization program."
+    },
+    {
+      "name": "OpenSnitch",
+      "url": "https://github.com/evilsocket/opensnitch",
+      "tags": ["dev", "software", "security"],
+      "description": "OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch."
+    },
+    {
+      "name": "https://xn--gckvb8fzb.com",
+      "url": "https://xn--gckvb8fzb.com",
+      "tags": ["indieWeb", "tech"],
+      "description": "A personal website about tech and life."
+    },
+    {
+      "name": "Low Tech Magazine",
+      "url": "https://solar.lowtechmagazine.com/",
+      "tags": ["solarpunk", "tech"],
+      "description": "A magazine teaching about (solar powered) low tech."
     }
   ]
 }
