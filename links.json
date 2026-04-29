@@ -255,7 +255,7 @@
     {
       "name": "The evolution of trust - a game",
       "url": "https://ncase.me/trust/",
-      "tags": ["life", "game", "article"],
+      "tags": ["life", "games", "article"],
       "description": "This is a game version of Axelrod's tournament, the evolution of cooperation."
     },
     {
@@ -443,6 +443,42 @@
       "url": "https://solar.lowtechmagazine.com/",
       "tags": ["solarpunk", "tech"],
       "description": "A magazine teaching about (solar powered) low tech."
+    },
+    {
+      "name": "The naturalist's rabbit hole",
+      "url": "https://naturalist.bearblog.dev/blog/",
+      "tags": ["nature", "indieWeb"],
+      "description": "A blog by a slow observer of plants, animals, and other natural wonders."
+    },
+    {
+      "name": "3Blue1Brown",
+      "url": "https://www.youtube.com/@3blue1brown/videos",
+      "tags": ["youtube", "math"],
+      "description": "3Blue1Brown is a YouTube channel that features videos on math, with great visuals."
+    },
+    {
+      "name": "iNaturalist",
+      "url": "https://www.inaturalist.org/",
+      "tags": ["nature", "android"],
+      "description": "A community for naturalists."
+    },
+    {
+      "name": "Are we Idiocracy yet?",
+      "url": "https://idiocracy.wtf/",
+      "tags": ["society"],
+      "description": "How close are we to society depicted in Idiocracy?"
+    },
+    {
+      "name": "Happy Map",
+      "url": "https://pudding.cool",
+      "tags": ["sociology", "happiness"],
+      "description": "A map representing real reasons for happiness."
+    },
+    {
+      "name": "Reasons to stay",
+      "url": "https://reasonstostay.org/",
+      "tags": ["life", "suicide"],
+      "description": "Reasons to stay alive."
     }
   ]
 }
